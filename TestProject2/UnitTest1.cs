@@ -8,7 +8,7 @@ namespace TestProject2
         [Fact]
         public void Test1()
         {
-            string test = "";
+            string test = string.Empty;
         }
     }
 }
